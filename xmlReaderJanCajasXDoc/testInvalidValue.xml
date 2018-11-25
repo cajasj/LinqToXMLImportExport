@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExampleObjectContainer xmlns:xsi="http://www.w3.osssrg/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Objects>
+    <ExampleObject Name="John Doe" DOB="1970-01e-02T00:00:00" NumberOfWidgets="1e3" />
+    <ExampleObject Name="JaneDoe" DOB="1980-03-04T00:00:00" NumberOfWidgets="345" />
+    <ExampleObject Name="Lone Star" DOB="1985-04-05T00:00:00" NumberOfWidgets="12" />
+    <ExampleObject Name="Jack Sparrow" DOB="1985-04-05T00:00:00" NumberOfWidgets="123" />
+  </Objects>
+</ExampleObjectContainer>

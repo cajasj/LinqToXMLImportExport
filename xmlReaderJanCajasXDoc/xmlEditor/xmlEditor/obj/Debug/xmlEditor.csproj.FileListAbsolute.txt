@@ -1,0 +1,43 @@
+C:\localDoc\dataManagement\c#\xmlReader\xmlEditor\xmlEditor\bin\Debug\xmlEditor.exe.config
+C:\localDoc\dataManagement\c#\xmlReader\xmlEditor\xmlEditor\bin\Debug\xmlEditor.exe
+C:\localDoc\dataManagement\c#\xmlReader\xmlEditor\xmlEditor\bin\Debug\xmlEditor.pdb
+C:\localDoc\dataManagement\c#\xmlReader\xmlEditor\xmlEditor\obj\Debug\xmlEditor.csprojResolveAssemblyReference.cache
+C:\localDoc\dataManagement\c#\xmlReader\xmlEditor\xmlEditor\obj\Debug\xmlEditor.Form1.resources
+C:\localDoc\dataManagement\c#\xmlReader\xmlEditor\xmlEditor\obj\Debug\xmlEditor.Properties.Resources.resources
+C:\localDoc\dataManagement\c#\xmlReader\xmlEditor\xmlEditor\obj\Debug\xmlEditor.csproj.GenerateResource.Cache
+C:\localDoc\dataManagement\c#\xmlReader\xmlEditor\xmlEditor\obj\Debug\xmlEditor.csproj.CoreCompileInputs.cache
+C:\localDoc\dataManagement\c#\xmlReader\xmlEditor\xmlEditor\obj\Debug\xmlEditor.exe
+C:\localDoc\dataManagement\c#\xmlReader\xmlEditor\xmlEditor\obj\Debug\xmlEditor.pdb
+F:\cs lectures\project\xmlReader\xmlEditor\xmlEditor\obj\Debug\xmlEditor.csprojResolveAssemblyReference.cache
+F:\cs lectures\project\xmlReader\xmlEditor\xmlEditor\obj\Debug\xmlEditor.Form1.resources
+F:\cs lectures\project\xmlReader\xmlEditor\xmlEditor\obj\Debug\xmlEditor.Properties.Resources.resources
+F:\cs lectures\project\xmlReader\xmlEditor\xmlEditor\obj\Debug\xmlEditor.csproj.GenerateResource.Cache
+F:\cs lectures\project\xmlReader\xmlEditor\xmlEditor\obj\Debug\xmlEditor.csproj.CoreCompileInputs.cache
+F:\cs lectures\project\xmlReader\xmlEditor\xmlEditor\obj\Debug\xmlEditor.exe
+F:\cs lectures\project\xmlReader\xmlEditor\xmlEditor\obj\Debug\xmlEditor.pdb
+F:\cs lectures\project\xmlReader\xmlEditor\xmlEditor\bin\Debug\xmlEditor.exe.config
+F:\cs lectures\project\xmlReader\xmlEditor\xmlEditor\bin\Debug\xmlEditor.exe
+F:\cs lectures\project\xmlReader\xmlEditor\xmlEditor\bin\Debug\xmlEditor.pdb
+F:\cs lectures\project\xmlReader\xmlEditor\xmlEditor\obj\Debug\xmlEditor.addItems.resources
+F:\cs lectures\project\xmlReaderJanCajasXDoc\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\bin\Debug\xmlEditor.exe.config
+F:\cs lectures\project\xmlReaderJanCajasXDoc\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\bin\Debug\xmlEditor.exe
+F:\cs lectures\project\xmlReaderJanCajasXDoc\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\bin\Debug\xmlEditor.pdb
+F:\cs lectures\project\xmlReaderJanCajasXDoc\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\obj\Debug\xmlEditor.csprojResolveAssemblyReference.cache
+F:\cs lectures\project\xmlReaderJanCajasXDoc\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\obj\Debug\xmlEditor.addItems.resources
+F:\cs lectures\project\xmlReaderJanCajasXDoc\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\obj\Debug\xmlEditor.Form1.resources
+F:\cs lectures\project\xmlReaderJanCajasXDoc\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\obj\Debug\xmlEditor.Properties.Resources.resources
+F:\cs lectures\project\xmlReaderJanCajasXDoc\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\obj\Debug\xmlEditor.csproj.GenerateResource.Cache
+F:\cs lectures\project\xmlReaderJanCajasXDoc\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\obj\Debug\xmlEditor.csproj.CoreCompileInputs.cache
+F:\cs lectures\project\xmlReaderJanCajasXDoc\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\obj\Debug\xmlEditor.exe
+F:\cs lectures\project\xmlReaderJanCajasXDoc\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\obj\Debug\xmlEditor.pdb
+C:\Downloads\xmlReaderJanCajasXDoc Validate\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\bin\Debug\xmlEditor.exe.config
+C:\Downloads\xmlReaderJanCajasXDoc Validate\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\bin\Debug\xmlEditor.exe
+C:\Downloads\xmlReaderJanCajasXDoc Validate\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\bin\Debug\xmlEditor.pdb
+C:\Downloads\xmlReaderJanCajasXDoc Validate\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\obj\Debug\xmlEditor.csprojResolveAssemblyReference.cache
+C:\Downloads\xmlReaderJanCajasXDoc Validate\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\obj\Debug\xmlEditor.addItems.resources
+C:\Downloads\xmlReaderJanCajasXDoc Validate\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\obj\Debug\xmlEditor.Form1.resources
+C:\Downloads\xmlReaderJanCajasXDoc Validate\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\obj\Debug\xmlEditor.Properties.Resources.resources
+C:\Downloads\xmlReaderJanCajasXDoc Validate\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\obj\Debug\xmlEditor.csproj.GenerateResource.Cache
+C:\Downloads\xmlReaderJanCajasXDoc Validate\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\obj\Debug\xmlEditor.csproj.CoreCompileInputs.cache
+C:\Downloads\xmlReaderJanCajasXDoc Validate\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\obj\Debug\xmlEditor.exe
+C:\Downloads\xmlReaderJanCajasXDoc Validate\xmlReaderJanCajasXDoc\xmlEditor\xmlEditor\obj\Debug\xmlEditor.pdb
